@@ -2,5 +2,5 @@
 using vanilla javascript, I built a digital clock
 
 
-<img src="C:\Users\ziadm\Desktop\Screenshot 2022-10-25 101221.png" width="128"/>
+<img src="C:\Users\ziadm\Desktop\digital-clock.png" width="128"/>
 
